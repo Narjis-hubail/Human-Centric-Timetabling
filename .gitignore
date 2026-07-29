@@ -1,0 +1,4 @@
+*.csv
+!outputs/final_schedule_25B.csv
+*_PRIVATE.csv
+Cleaned Data V3/
